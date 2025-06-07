@@ -85,7 +85,7 @@ int main(int argc, char *argv[]){
 			if(pidD == 0){
 				printf("Soy el proceso Demonio con PID %d, mi padre es %d\n",getpid(),getppid());
 				c = getchar();
-				printf("Demonio finaliado\n");
+				printf("Demonio finalizado\n");
 				exit(0);
 			}
 			else{

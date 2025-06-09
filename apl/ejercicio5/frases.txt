@@ -1,0 +1,5 @@
+programacion en c
+interfaz de red
+cliente servidor
+memoria compartida
+sistema operativo
